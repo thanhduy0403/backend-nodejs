@@ -1,10 +1,10 @@
 module.exports = {
     // CONNECTION_STRING: 'mongodb+srv://developer:147258369@cluster0.w8qpr.mongodb.net/test',
-    // DATABASE_NAME: 'test',
-    DATABASE: 'mongodb://localhost:27017/backend-nodejs',
-     DATABASE_NAME: 'backend-nodejs',
-    // DATABASE: 'mongodb+srv://nguyenthanhduy0429:duylol7889@cluster0.zchts5m.mongodb.net/batch-29-30-database',
-    // DATABASE_NAME: 'batch-29-30-database',
+    // // DATABASE_NAME: 'test',
+    // DATABASE: 'mongodb://localhost:27017/backend-nodejs',
+    //  DATABASE_NAME: 'backend-nodejs',
+    DATABASE: 'mongodb+srv://thanhduyntd99:duylol7889@cluster0.cmljdcs.mongodb.net/backend-nodejs',
+    DATABASE_NAME: 'backend-nodejs',
    
 
 
